@@ -1,0 +1,15 @@
+@media only screen and (max-width: 600px) {
+    .wrapper {
+      width: 95% !important;
+    }
+  }
+
+.ab {
+    position: absolute;
+    z-index: -1;
+    margin-right: auto;
+    margin-left: auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
